@@ -1,6 +1,4 @@
 # Curso-Java-Script
 
 
-outro commit
-outro
-
+Testando os comandos do git
