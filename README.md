@@ -22,11 +22,3 @@ Este repositório contém diversos materiais e exemplos práticos para estudos s
     ```
 
 2. Navegue pelas pastas e abra os arquivos `.html` ou `.js` no seu editor de código ou navegador para ver os exemplos em ação.
-
-## Contribuindo
-
-Contribuições são bem-vindas! Se você deseja adicionar novos exemplos ou melhorar os existentes, por favor, faça um fork do repositório e envie um pull request.
-
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo LICENSE para mais detalhes.
